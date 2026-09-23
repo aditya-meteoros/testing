@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/aditya-meteoros/ticket-triage-pipeline.git
+    repoURL: https://github.com/aditya-meteoros/testing.git
     targetRevision: main
     path: k8s
   destination:
